@@ -1,0 +1,11 @@
+li {
+  min-height: 4rem;
+}
+
+.delete {
+  display: none;
+}
+
+li:hover .delete {
+  display: block;
+}
